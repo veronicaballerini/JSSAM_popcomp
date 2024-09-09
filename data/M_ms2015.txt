@@ -1,0 +1,2 @@
+"M_m_agrvet" "M_f_agrvet" "M_m_engarch" "M_f_engarch" "M_m_eco" "M_f_eco" "M_m_comm" "M_f_comm" "M_m_indeng" "M_f_indeng" "M_m_law" "M_f_law" "M_m_hum" "M_f_hum" "M_m_med" "M_f_med" "M_m_pol" "M_f_pol" "M_m_sci" "M_f_sci"
+"1" 1240 1379 1686 2229 9150 9608 772 1846 8094 1944 8388 11867 2074 4269 5484 10868 2033 2518 4679 6735
