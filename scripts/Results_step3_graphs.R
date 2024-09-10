@@ -4,7 +4,7 @@
 ####                                                                       #####
 ####             Authors: Veronica Ballerini, Brunero Liseo                #####
 ####                                                                       #####
-####   This code reproduces results of step 2 included in the paper        #####
+####   This code reproduces results of step 3 included in the paper        #####
 ################################################################################
 
 rm(list=ls())
