@@ -4,7 +4,7 @@
 ####                                                                       #####
 ####             Authors: Veronica Ballerini, Brunero Liseo                #####
 ####                                                                       #####
-####   This code reproduces results of step 2 included in the paper        #####
+### This code reproduces sensitivity results (step 3) in the Suppl Material ####
 ################################################################################
 
 rm(list=ls())
