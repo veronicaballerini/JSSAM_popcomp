@@ -1,6 +1,6 @@
 # JSSAM_popcomp
 
-This repository is the replication package of the paper "Inferring a population composition from survey data with nonignorable nonresponse: Borrowing information from external sources," accepted for publication by the Journal of Survey Statistics and Methodology in September 2024.
+This repository is the replication package of the paper "Inferring a population composition from survey data with nonignorable nonresponse: Borrowing information from external sources," by Veronica Ballerini and Brunero Liseo, accepted for publication by the Journal of Survey Statistics and Methodology in September 2024.
 
 The "scripts" folder contains the codes needed to reproduce the results in the paper. The files' names are explicative. Codes recall data and sources as follows:
 - Data (NSI sample, Almalaurea survey data, and SNR values) are contained in the folder "data;"
